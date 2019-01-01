@@ -1,0 +1,13 @@
+{
+  "name": "purduefit",
+  "version": "1.0.0",
+  "description": "Purdue Fitness Alexa Skill",
+  "main": "index.js",
+  "author": "Krithik Rao",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk": "^2.0.9",
+    "ask-sdk-core": "^2.0.9",
+    "ask-sdk-model": "^1.5.0"
+  }
+}
